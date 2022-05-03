@@ -59,5 +59,5 @@ ___________
 
 ![newplot (7)](https://user-images.githubusercontent.com/98020536/166425737-bec69da5-6c2d-48b9-8f5b-12dc11c8ee5e.png)
 
-This is the top 20 products generating the most sales revenue. Most of these products are more expensive including printers, copiers, phones, bookshelves, etc. 
+This is the top 20 products generating the most sales revenue. Most of these products are more expensive including printers, copiers, phones, bookshelves, etc.  
 
