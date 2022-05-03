@@ -1,1 +1,12 @@
+# Office Supplies Sales Data Analysis
 
+I did some data analysis on some sales data over four years for a company with multiple regions. 
+Each transaction ID has information on the items purchased, date, region, etc.
+
+The following graphs I made with Plotly show the insight I was able to derive.
+
+_____________
+
+Sub-Category Sales by Region
+
+![My Image](/Users/user/Downloads/newplot.png)
